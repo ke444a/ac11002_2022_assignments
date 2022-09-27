@@ -1,2 +1,2 @@
-# ac11002_2022_projects
-Repository for AC11002 Module at the UoD
+# AC11002 (Web Authoring) Assignments
+Repository for storing all assignments and projects completed during the AC11002 module at the University of Dundee
