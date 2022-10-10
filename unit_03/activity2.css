@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Pacifico&display=swap');
+
+body {
+    background-color: #0B1D51;
+}
+
+.menu {
+    max-width:720px;
+    margin: 0 auto;
+    background-color: #F0F2EF;
+    padding: 5px 20px;
+}
+
+header {
+    color: #FFFFFF;
+}
+
+h1, h2 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.menu__header {
+    border-bottom-width: 4px;
+    border-bottom-style: ridge;
+    margin-top: 20px;
+}
+
+.item__name, .item__price {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.item__name {
+    margin-bottom: 0;
+    font-weight: 500;
+    color: #F2542D;
+}
+
+.item__price {
+    margin-top: 0;
+    font-weight: 400;
+}
+
+.food-icon {
+    padding: 0 20px;
+}
