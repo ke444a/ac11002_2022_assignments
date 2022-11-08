@@ -1,0 +1,39 @@
+.row {
+    height: 150px;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.red-bg {
+    background-color: tomato;
+}
+
+.orange-bg {
+    background-color: peru;
+}
+
+.yellow-bg {
+    background-color: yellow;
+}
+
+.yellowgreen-bg {
+    background-color:yellowgreen;
+}
+
+.green-bg {
+    background-color: green;
+}
+
+.aqua-bg {
+    background-color: aqua;
+}
+
+.aquamarine-bg {
+    background-color:aquamarine
+}
+
+.ocean-blue-bg {
+    background-color: #006994;
+}
