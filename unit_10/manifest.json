@@ -1,0 +1,6 @@
+{
+    "name": "ToDo Application",
+    "short_name": "ToDo",
+    "display": "fullscreen",
+    "description": "Small ToDo App in JS"
+  }
